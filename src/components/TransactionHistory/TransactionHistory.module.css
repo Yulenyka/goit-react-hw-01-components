@@ -1,6 +1,6 @@
 .transactionHistory {
     width: 100%;
-    margin-top: 40px;
+    margin-top: 30px;
     border-spacing: 1px;
 }
 
@@ -18,7 +18,7 @@ tbody tr:nth-child(even) {
 }
 
 .transactionLine{
-    height: 30px;
+    height: 40px;
     text-align: center;
 }
 
