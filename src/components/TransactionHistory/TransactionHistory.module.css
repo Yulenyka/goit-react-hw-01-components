@@ -6,7 +6,6 @@
 
 .transactionCaption {
         background-color: #00bcd5;
-        height: 40px;
 }
 
 .transactionItem {
@@ -17,8 +16,15 @@ tbody tr:nth-child(even) {
     background-color: #ecf1f4;
 }
 
+tbody th {
+    padding: 10px 15px;
+}
+
+tbody td {
+    padding: 10px 15px;
+}
+
 .transactionLine{
-    height: 40px;
     text-align: center;
 }
 
