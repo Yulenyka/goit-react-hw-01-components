@@ -1,0 +1,10 @@
+.friendList {
+    margin-top: 30px;  
+    width: 100%;
+}
+
+@media(min-width:769px) {
+    .friendList {
+        width: 400px;  
+    }
+}
