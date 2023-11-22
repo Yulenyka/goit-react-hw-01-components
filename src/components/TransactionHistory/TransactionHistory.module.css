@@ -1,12 +1,12 @@
 .transactionHistory {
     width: 100%;
-    margin-top: 30px;
+    margin-top: 40px;
     border-spacing: 1px;
 }
 
 .transactionCaption {
         background-color: #00bcd5;
-        height: 30px;
+        height: 40px;
 }
 
 .transactionItem {
